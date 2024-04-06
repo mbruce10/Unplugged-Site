@@ -364,7 +364,7 @@ input[type=button] {
   justify-content: center;
 }
 
-.map figure {
+/* .map figure {
   width: 100%;
   height: 0;
   padding-bottom: 125%;
@@ -378,7 +378,8 @@ input[type=button] {
   position: absolute;
   top: 0;
   left: 0;
-}
+} */
+
 
 .contact-section {
   background: #2a423a;
@@ -660,8 +661,12 @@ input[type=button] {
   }
 
   .mission-content p {
-    width: 45%;
+    width: 45.6%;
   }
+
+  /* .map figure {
+    padding: 30%;
+  } */
 
   .contact-section .content-wrapper {
     width: 80%;
@@ -777,6 +782,10 @@ footer h4 {
 }
 
 /****** About Page ******/
+
+/* .map figure {
+    padding: 37.5%;
+} */
 
 .mission h2,
 .contact-section .content-wrapper h2 {
